@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#F7DF1E; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello, I'm Agil George 👋</h1>
 
 <p align="center" style="font-size: 18px;">
-  <strong>Highly adaptable Full Stack Developer and Mobile App Developer</strong> with a discerning eye for design and aesthetics. Proficient in various programming languages and frameworks, I've led and collaborated with diverse teams. Known for rapid learning and innovation, I bring enthusiasm and creativity to every project.
+  <strong> I am a web and app developer skilled in building responsive, user-friendly applications </strong> using technologies like React, Next.js, and Flutter. With a strong focus on clean, maintainable code and engaging designs, I thrive in collaborative environments. Continuously learning, I stay updated on industry trends to deliver innovative solutions.
 </p>
 
 ---
@@ -55,6 +55,10 @@ I'm currently learning <strong>TypeScript</strong>.
 </p>
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Agilgeorge&show_icons=true&theme=radical&hide=contribs,prs" alt="Agil's GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agilgeorge&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</div>
 
 
 
