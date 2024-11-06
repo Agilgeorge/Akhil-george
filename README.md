@@ -56,12 +56,7 @@ I'm currently learning <strong>TypeScript</strong>.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agilgeorge&show_icons=true&theme=radical&hide=contribs,prs" alt="Agil's GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agilgeorge&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-</div>
 
----
 
 <p align="center" style="font-size: 18px;">
   <strong>💬 Feel free to reach out and connect with me!</strong>
