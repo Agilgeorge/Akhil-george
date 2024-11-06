@@ -59,6 +59,3 @@ working on <strong>Next.js</strong> and <strong>Framer</strong>.
 
 
 
-<p align="center" style="font-size: 18px;">
-  <strong>💬 Feel free to reach out and connect with me!</strong>
-</p>
