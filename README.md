@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#F7DF1E; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello, I'm Agil George 👋</h1>
+<h1 align="center" style="color:#F7DF1E; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello, I'm Agil George☄️🌌</h1>
 
 <p align="center" style="font-size: 18px;">
   <strong> I am a web and app developer skilled in building responsive, user-friendly applications </strong> using technologies like React, Next.js, and Flutter. With a strong focus on clean, maintainable code and engaging designs, I thrive in collaborative environments. Continuously learning, I stay updated on industry trends to deliver innovative solutions.
@@ -6,20 +6,17 @@
 
 ---
 
-### 🔭 Current Work
-I'm currently working on <strong>Next.js</strong> and <strong>Framer</strong>.
+###  Grinding 🗿
+working on <strong>Next.js</strong> and <strong>Framer</strong>.
 
-### 🌱 Learning Journey
-I'm currently learning <strong>TypeScript</strong>.
+###  Upskiling 👨‍💻
+ learning <strong>TypeScript</strong>.
 
 ---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anthony-george-agil-934121249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Agilgeorge" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.instagram.com/_akhil_george_24/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
